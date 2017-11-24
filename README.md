@@ -1,4 +1,4 @@
-_(Please view [Description.md](https://github.com/kvoitiuk/fall-17-scml-competition/blob/master/Description) for a guide to my submission.)_
+_(Please view [Description.md](https://github.com/kvoitiuk/fall-17-scml-competition/blob/master/Description.md) for a guide to my submission.)_
 
 # SCML Fall 2017 Competition
 
