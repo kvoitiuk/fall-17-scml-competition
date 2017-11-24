@@ -1,4 +1,4 @@
-Please view SubmissionDescription_and_Instructions.md for a guide to my submission.
+_(Please view [(Description.md](https://github.com/kvoitiuk/fall-17-scml-competition/Description.md) for a guide to my submission.)_
 
 # SCML Fall 2017 Competition
 
