@@ -1,3 +1,5 @@
+Please view SubmissionDescription_and_Instructions.md for a guide to my submission.
+
 # SCML Fall 2017 Competition
 
 ## Can machines learn how the mouse sees?
